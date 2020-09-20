@@ -15,22 +15,19 @@ WinePrice:  GBP price/750ml
 VintageRatingPriceRatio:rating/price
 WineRatingPriceRa: rating/price
 
-Website Link:  https://www.kaggle.com/zhenyulin/whitewinepricerating
+Website Link to Data:  https://www.kaggle.com/zhenyulin/whitewinepricerating
 
 
-Purpose: Advise on the best white wines based on certain factors. 
-- Find the top 5 best rated affordable wines
-- Find the top 5 rated wines regardless of price by type
-- Find the top 5 wines by year
-- Top 5 Regions that produce the best wines
-    - Characterize the wines more or less than the average. 
-    - Rating/Price Ratio
-    - By Hemesphere how to they look.
-    - By region to sub area
+Purpose: 
+- Find out if there is corrleation between a wine's price and rating. 
+    Deep dive into wines priced under $100.  
+- Do a general look at countries with wine regions and their rates.
+- Do a generaal look at the varities and their rates. 
+
+Focus: 
+- Focus on just the Wine Ratings and Wine Price.  Do no analyze the Vinate Ratings andn Vintage Price for the sake of this program.
 
 
-- Availability or Accessabilitiy
-- Common Denominator from Highest Rating vs Lowest Lowest
-- Region vs Rating
+
 
 
